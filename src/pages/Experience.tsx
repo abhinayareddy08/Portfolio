@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Section } from "../components/Section";
 import { motion } from "motion/react";
 

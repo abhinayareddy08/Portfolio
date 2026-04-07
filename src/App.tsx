@@ -1,4 +1,4 @@
-import React from "react";
+
 import { ThemeProvider } from "./components/ThemeContext";
 import { Navbar } from "./pages/Navbar";
 import { Hero } from "./pages/Hero";

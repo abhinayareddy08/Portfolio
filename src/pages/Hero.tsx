@@ -1,4 +1,4 @@
-import React from "react";
+
 import { motion } from "motion/react";
 import { ArrowRight, Mail } from "lucide-react";
 import { Section } from "../components/Section";

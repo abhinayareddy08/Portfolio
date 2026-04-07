@@ -1,8 +1,7 @@
-import React from "react";
+
 import { Section } from "../components/Section";
 import { Layers, Cpu, Wrench, Palette, Bot } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
-import { Badge } from "../components/ui/badge";
 
 export function Skills() {
   const categories = [

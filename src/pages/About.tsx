@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Section } from "../components/Section";
 import { Code2, Database, Layout, Server, Blocks, Bot } from "lucide-react";
 import { Badge } from "../components/ui/badge";

@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Section } from "../components/Section";
 import { ExternalLink, Lock } from "lucide-react";
 import { FaGithub } from "react-icons/fa";

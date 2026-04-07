@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Section } from "../components/Section";
 import { Send } from "lucide-react";
 import { motion } from "motion/react";
