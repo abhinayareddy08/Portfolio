@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Moon, Sun, Menu, X } from "lucide-react";
 import { useTheme } from "../components/ThemeContext";
 import { motion, AnimatePresence } from "motion/react";
-import resumePDF from "../assets/AbhinayaResume(4.3).pdf";
+import resumePDF from "../assets/AbhinayaResume(4.4).pdf";
 
 export function Navbar() {
   const { theme, toggleTheme } = useTheme();
